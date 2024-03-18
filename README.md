@@ -1,2 +1,2 @@
 # myGym
-an iOS app to manage you gym workout
+An iOS app to manage your gym workout
