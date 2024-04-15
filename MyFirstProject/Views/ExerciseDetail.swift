@@ -1,10 +1,3 @@
-//
-//  ExerciseDetail.swift
-//  MyFirstProject
-//
-//  Created by Federica Mosca on 27/04/23.
-//
-
 import SwiftUI
 
 struct ExerciseDetail: View {

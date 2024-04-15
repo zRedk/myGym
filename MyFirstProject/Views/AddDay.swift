@@ -1,10 +1,3 @@
-//
-//  AddDay.swift
-//  MyFirstProject
-//
-//  Created by Federica Mosca on 26/04/23.
-//
-
 import SwiftUI
 
 struct CustomBack: View {

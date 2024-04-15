@@ -1,10 +1,3 @@
-//
-//  Model.swift
-//  MyFirstProject
-//
-//  Created by Federica Mosca on 21/04/23.
-//
-
 import Foundation
 import SwiftUI
 

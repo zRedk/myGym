@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//
-//  Created by Federica Mosca on 20/04/23.
-//
-
 import SwiftUI
 
 struct MainPage: View {

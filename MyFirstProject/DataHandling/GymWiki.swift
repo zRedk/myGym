@@ -1,10 +1,3 @@
-//
-//  GymPrecompiled.swift
-//  MyFirstProject
-//
-//  Created by Federica Mosca on 22/04/23.
-//
-
 import Foundation
 
 let GymWiki: [Exercise] = [

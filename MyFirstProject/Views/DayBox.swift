@@ -1,10 +1,3 @@
-//
-//  DayBox.swift
-//  MyFirstProject
-//
-//  Created by Federica Mosca on 22/04/23.
-//
-
 import SwiftUI
 
 struct DayBox: View {
