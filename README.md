@@ -1,7 +1,7 @@
 # myGym
 
 ![Banner](https://github.com/zRedk/myGym/blob/main/Banner.jpg)
-![Static Badge](https://img.shields.io/badge/XCode_Version-14.-green?style=flat&logo=xcode) ![Static Badge](https://img.shields.io/badge/Swift_Version-5.8-green?style=flat&logo=swift) 
+![Static Badge](https://img.shields.io/badge/XCode_Version-14.3-green?style=flat&logo=xcode) ![Static Badge](https://img.shields.io/badge/Swift_Version-5.8-green?style=flat&logo=swift) 
 
 ## Contents
 
