@@ -7,10 +7,9 @@
 
 1. [ Description. ](#desc)
 2. [ Features. ](#features)
-3. [ Purpose. ](#purpose)
-4. [ Instruction For Use. ](#instruction)
-5. [ License. ](#license)
-6. [ Credits. ](#credits)
+3. [ Instruction For Use. ](#instruction)
+4. [ License. ](#license)
+5. [ Credits. ](#credits)
 
 <a name="desc"></a>
 ## Description
@@ -29,11 +28,6 @@ myGym is an iOS application developed in Swift that aims to simplify and optimiz
  - **Editing and Deleting Plans:** Users have full control over their workout plans, being able to edit or delete them at any time.
 
 ![video1-ezgif com-resize](https://github.com/zRedk/myGym/assets/115696846/672adbf5-24af-40de-9965-7910dc9e4fce) ![video2-ezgif com-resize](https://github.com/zRedk/myGym/assets/115696846/a3c8645b-dd66-4ba9-a025-70c8b33cdf50) ![video3-ezgif com-resize](https://github.com/zRedk/myGym/assets/115696846/ba54ed40-aa6a-4d8c-a8d1-03f66ad672d2)
-
-<a name="purpose"></a>
-## Purpose
-
-myGym is designed to simplify the gym workout experience for users of all levels. Whether you're new to the gym or a seasoned fitness enthusiast, myGym provides the tools you need to plan, organize, and track your workouts effectively. Say goodbye to confusion and hello to progress with myGym.
 
 <a name="instruction"></a>
 ## Instructions For Use
