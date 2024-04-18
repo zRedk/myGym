@@ -44,7 +44,7 @@ myGym is an iOS application developed in Swift that aims to simplify and optimiz
 <a name="license"></a>
 ## License
 
-SetMeUp is licensed under the GNU License. See the [LICENSE](https://github.com/zRedk/myGym/blob/main/LICENSE) file for details.
+myGym is licensed under the GNU License. See the [LICENSE](https://github.com/zRedk/myGym/blob/main/LICENSE) file for details.
 
 <a name="credits"></a>
 ## Credits
